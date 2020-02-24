@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1582512916 source:d:\jan26\eulerprojectproblem1\main.c
+	<stdio.h>
+	<stdlib.h>
+
