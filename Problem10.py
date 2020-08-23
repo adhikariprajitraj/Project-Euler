@@ -17,7 +17,7 @@ def isPrime(n) :
     return True
 total =2
 for i in range(3,2000000,2):
-    if isPrime(i) == True:
+    if isPrime(i) is True:
         total+= i
         
         
